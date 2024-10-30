@@ -10,7 +10,7 @@ This documentation is for a project reviewed from start to finish during one of 
    I explored different types of DAX functions:
     * Conditional column
     * Measure
-    * Calaculated Column
+    * Calculated Column
   ![image](https://github.com/user-attachments/assets/7610f483-3320-4630-8f90-8ee5bb74868a)
 
 - Then, I clicked on 'Close & Apply' button to move the cleaned data to the report view of Power BI.
@@ -18,4 +18,4 @@ This documentation is for a project reviewed from start to finish during one of 
 - After which I dragged the desired data column to be visualized to the card. The image below is a display of the output.
   
   ![image](https://github.com/user-attachments/assets/28832bd1-9270-4f97-b3e7-4879867089ff)
-- Then I made use  text box too to create title 
+- Then I made use  text box too to create title of the report view page and adjusted it as necessary
